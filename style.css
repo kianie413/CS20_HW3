@@ -1,0 +1,15 @@
+Setlist{
+    background: url('pic.jpg') no-repeat center;
+    background-size: cover;
+    font-family:'Courier New', Courier, monospace;
+}
+Song{
+    display: block;
+}
+Artist{
+    display:block;
+    font-size: 100%;
+}
+Title{
+    display:block;  
+}
