@@ -1,5 +1,5 @@
 SETLIST {
-    background: url('pic.jpg') no-repeat center;
+    background-image: url("pic.jpg") no-repeat center;
     background-size: cover;
     font-family:'Courier New', Courier, monospace;
 }
