@@ -5,10 +5,10 @@ SETLIST {
 }
 SONG { 
     display: block;
+    font-size:large;
 }
 ARTIST {
     display:block;
-    font-size: 100%;
 }
 TITLE {
     display:block;  
