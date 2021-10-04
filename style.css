@@ -5,6 +5,7 @@ SETLIST {
     font-family:'Courier New', Courier, monospace;
     text-align: center;
     color: #8B4411;
+    font-weight: bold;
 }
 SONG { 
     display: block;
