@@ -4,13 +4,13 @@ SETLIST {
     width: 100%;
     font-family:'Courier New', Courier, monospace;
     text-align: center;
-    color: #A0816C;
+    color: #8B4411;
 }
 SONG { 
     display: block;
     font-size: 50px;
 }
-ARTIST, TITLE, GENRE, YEAR {
+ARTIST, GENRE, YEAR {
     display:block;
     font-size: 24px;
 }
