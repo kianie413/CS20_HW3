@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="UTF-8?">
 <?xml-stylesheet type="text/css" href="style.css"?>
 
-<Setlist>
-    <Song>
-        <Title>365 and 7</Title>
+<SETLIST >
+    <SONG>
+        <TITLE>365 and 7</TITLE>
         <Artist>pH-1, Jamie</Artist>
-        <Genre>R and B</Genre>
-        <Year>2021</Year>
-    </Song>
-    <Song>
-        <Title>Love Me Like That</Title>
-        <Artist>Sam Kim</Artist>
-        <Genre>R and B</Genre>
-        <Year>2021</Year>
-    </Song>
-    <Song>
-        <Title>Transparent Soul</Title>
-        <Artist>Willow Smith</Artist>
-        <Genre>Pop-Punk</Genre>
-        <Year>2021</Year>
-    </Song>
-    <Song>
-        <Title>Pas Le Choix</Title>
-        <Artist>Manal</Artist>
-        <Genre>Pop</Genre>
-        <Year>2019</Year>
-    </Song>
-    <Song>
-        <Title>Is this bad b**** number?</Title>
-        <Artist>JEON SOYEON, BIBI, Lee Young Ji</Artist>
-        <Genre>Kpop, Rap</Genre>
-        <Year>2021</Year>
-    </Song>
-    <Song>
-        <Title>Broke</Title>
-        <Artist>Sam Henshaw</Artist>
-        <Genre>R and B, Soul</Genre>
-        <Year>2018</Year>
-    </Song>
-    <Song>
-        <Title>Jaguar</Title>
-        <Artist>Victoria Monét</Artist>
-        <Genre>R and B/Soul</Genre>
-        <Year>2020</Year>
-    </Song>
-    <Song>
-        <Title>Hawaí</Title>
-        <Artist>Maluma</Artist>
-        <Genre>Latin Urbano</Genre>
-        <Year>2020</Year>
-    </Song>
-    <Song>
-        <Title>Blood Sweat  and  Tears</Title>
-        <Artist>BTS</Artist>
-        <Genre>Kpop</Genre>
-        <Year>2016</Year>
-    </Song>
-    <Song>
-        <Title>Pride is the Devil</Title>
-        <Artist>J.Cole, Lil Baby</Artist>
-        <Genre>Rap</Genre>
-        <Year>2021</Year>
-    </Song>
+        <GENRE>R and B</GENRE>
+        <YEAR>2021</YEAR>
+    </SONG>
+    <SONG>
+        <TITLE>Love Me Like That</TITLE>
+        <ARTIST>Sam Kim</ARTIST>
+        <GENRE>R and B</GENRE>
+        <YEAR>2021</YEAR>
+    </SONG>
+    <SONG>
+        <TITLE>Transparent Soul</TITLE>
+        <ARTIST>Willow Smith</ARTIST>
+        <GENRE>Pop-Punk</GENRE>
+        <YEAR>2021</YEAR>
+    </SONG>
+    <SONG>
+        <TITLE>Pas Le Choix</TITLE>
+        <ARTIST>Manal</ARTIST>
+        <GENRE>Pop</GENRE>
+        <YEAR>2019</YEAR>
+    </SONG>
+    <SONG>
+        <TITLE>Is this bad b**** number?</TITLE>
+        <ARTIST>JEON SOYEON, BIBI, Lee Young Ji</ARTIST>
+        <GENRE>Kpop, Rap</GENRE>
+        <YEAR>2021</YEAR>
+    </SONG>
+    <SONG>
+        <TITLE>Broke</TITLE>
+        <ARTIST>Sam Henshaw</ARTIST>
+        <GENRE>R and B, Soul</GENRE>
+        <YEAR>2018</YEAR>
+    </SONG>
+    <SONG>
+        <TITLE>Jaguar</TITLE>
+        <ARTIST>Victoria Monét</ARTIST>
+        <GENRE>R and B/Soul</GENRE>
+        <YEAR>2020</YEAR>
+    </SONG>
+    <SONG>
+        <TITLE>Hawaí</TITLE>
+        <ARTIST>Maluma</ARTIST>
+        <GENRE>Latin Urbano</GENRE>
+        <YEAR>2020</YEAR>
+    </SONG>
+    <SONG>
+        <TITLE>Blood Sweat  and  Tears</TITLE>
+        <ARTIST>BTS</ARTIST>
+        <GENRE>Kpop</GENRE>
+        <YEAR>2016</YEAR>
+    </SONG>
+    <SONG>
+        <TITLE>Pride is the Devil</TITLE>
+        <ARTIST>J.Cole, Lil Baby</ARTIST>
+        <GENRE>Rap</GENRE>
+        <YEAR>2021</YEAR>
+    </SONG>
