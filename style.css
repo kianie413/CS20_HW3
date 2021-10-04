@@ -8,6 +8,8 @@ SETLIST {
 }
 SONG { 
     display: block;
+}
+TITLE{
     font-size: 50px;
 }
 ARTIST, GENRE, YEAR {
