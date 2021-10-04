@@ -1,15 +1,15 @@
-Setlist{
+SETLIST{
     background: url('pic.jpg') no-repeat center;
     background-size: cover;
     font-family:'Courier New', Courier, monospace;
 }
-Song{
+SONG{
     display: block;
 }
-Artist{
+ARTIST{
     display:block;
     font-size: 100%;
 }
-Title{
+TITLE{
     display:block;  
 }
