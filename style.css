@@ -3,6 +3,7 @@ SETLIST {
     /* background-size: cover; */
     width: 100%;
     font-family:'Courier New', Courier, monospace;
+    text-align: center;
 }
 SONG { 
     display: block;
